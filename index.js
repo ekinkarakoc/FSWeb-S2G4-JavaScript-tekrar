@@ -141,6 +141,7 @@ function sirala(arr) {
   });
 }
 console.log(sirala(besyuzdenkucuksayilar));
+
 //3f çözümü
 tekraredensayilar = [];
 let count = {};
